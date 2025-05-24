@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently a student of Bachelor of Science in Information Technology (BSIT), with a strong passion for continuous learning and professional growth. My academic journey has allowed me to develop a solid foundation in both theoretical and practical aspects of information technology.
+I am currently a student of Bachelor of Science in Information Technology (BSIT), with a strong passion(false) for continuous learning and professional growth. 
 
 ## Technical Skills
 
