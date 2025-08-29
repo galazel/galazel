@@ -24,11 +24,7 @@
 
 - [About Me](#-about-me)  
 - [Technical Skills](#-technical-skills)  
-- [Projects](#-projects)  
-- [Work & Contributions](#-work--contributions)  
-- [How to Reach Me](#-how-to-reach-me)  
-- [Fun Facts](#-fun-facts)  
-
+- [Projects](#-projects)
 ---
 
 ## 🌱 About Me
@@ -54,21 +50,6 @@ I am a BSIT student dedicated to continuous learning and professional growth. I 
 </p>
 
 ---
-
-## 🚀 Projects
-
-### Revised Artstream
-- A collaborative web application for showcasing and curating artwork.
-- Built with: React, Tailwind CSS, Spring Boot, MySQL.
-- Features: user authentication, galleries, responsive design, media uploads.
-- Status: active — enhancements in UI/UX and accessibility.
-
-### UC Election
-- A voting and nomination system tailored for student or organizational elections.
-- Built with: Java (Spring Boot), MySQL, RESTful APIs, Postman-tested.
-- Features: secure voting flow, role-based access, results dashboard.
-- Status: completed — reusable components and API-first design.
-
 ## 🎯 Goals & What I'm Learning
 
 - Deepening knowledge of React patterns and state management.  
