@@ -6,20 +6,18 @@ I am currently a student of Bachelor of Science in Information Technology (BSIT)
 
 ## Technical Skills
 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/java-000?style=plastic&logo=java&logoColor=white&labelColor=000&color=000">
+  <img src="https://img.shields.io/badge/javascript-000?style=plastic&logo=javascript&logoColor=F7DF1E&labelColor=000&color=000">
+  <img src="https://img.shields.io/badge/html5-000?style=plastic&logo=html5&logoColor=E34F26&labelColor=000&color=000">
+  <img src="https://img.shields.io/badge/css3-000?style=plastic&logo=css3&logoColor=1572B6&labelColor=000&color=000">
+  <img src="https://img.shields.io/badge/bootstrap-000?style=plastic&logo=bootstrap&logoColor=563D7C&labelColor=000&color=000">
+  <img src="https://img.shields.io/badge/tailwindcss-000?style=plastic&logo=tailwind-css&logoColor=38B2AC&labelColor=000&color=000">
+  <img src="https://img.shields.io/badge/react-000?style=plastic&logo=react&logoColor=61DAFB&labelColor=000&color=000">
+  <img src="https://img.shields.io/badge/mysql-000?style=plastic&logo=mysql&logoColor=005C84&labelColor=000&color=000">
+  <img src="https://img.shields.io/badge/springboot-000?style=plastic&logo=spring-boot&logoColor=6DB33F&labelColor=000&color=000">
+  <img src="https://img.shields.io/badge/postman-000?style=plastic&logo=postman&logoColor=FF6C37&labelColor=000&color=000">
+</p>
 
 ## Projects and Interests
 
