@@ -1,17 +1,5 @@
 # Hi, I'm galazel 👋
 
-<p align="center">
-  <!-- Circular avatar: width & height set equally + border-radius and object-fit to ensure the image fills the circle -->
-  <img src="https://github.com/galazel.png" alt="galazel avatar" width="160" height="160" style="border-radius:0%; object-fit:cover; border:4px solid #eafbe9; box-shadow:0 8px 24px rgba(34,197,94,0.18);" />
-</p>
-
-<p align="center">
-  <strong>BSIT Student • Web & Java Developer • Lifelong Learner</strong><br/>
-  I build delightful, maintainable web experiences and APIs — always learning, always improving.
-</p>
-
----
-
 ## ✨ Highlights
 
 - Currently studying Bachelor of Science in Information Technology (BSIT).  
