@@ -3,20 +3,20 @@
 ## About Me
 
 I am currently a student of Bachelor of Science in Information Technology (BSIT), with a strong passion(false) for continuous learning and professional growth. 
-
 ## Technical Skills
 
 <p>
-  <img src="https://img.shields.io/badge/java-000?style=plastic&logo=java&logoColor=white&labelColor=000&color=000">
-  <img src="https://img.shields.io/badge/javascript-000?style=plastic&logo=javascript&logoColor=F7DF1E&labelColor=000&color=000">
-  <img src="https://img.shields.io/badge/html5-000?style=plastic&logo=html5&logoColor=E34F26&labelColor=000&color=000">
-  <img src="https://img.shields.io/badge/css3-000?style=plastic&logo=css3&logoColor=1572B6&labelColor=000&color=000">
-  <img src="https://img.shields.io/badge/bootstrap-000?style=plastic&logo=bootstrap&logoColor=563D7C&labelColor=000&color=000">
-  <img src="https://img.shields.io/badge/tailwindcss-000?style=plastic&logo=tailwind-css&logoColor=38B2AC&labelColor=000&color=000">
-  <img src="https://img.shields.io/badge/react-000?style=plastic&logo=react&logoColor=61DAFB&labelColor=000&color=000">
-  <img src="https://img.shields.io/badge/mysql-000?style=plastic&logo=mysql&logoColor=005C84&labelColor=000&color=000">
-  <img src="https://img.shields.io/badge/springboot-000?style=plastic&logo=spring-boot&logoColor=6DB33F&labelColor=000&color=000">
-  <img src="https://img.shields.io/badge/postman-000?style=plastic&logo=postman&logoColor=FF6C37&labelColor=000&color=000">
+  <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java&logoColor=white" height="48">
+  <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="48">
+  <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=postgresql&logoColor=4479A1" height="48">
+  <img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" height="48">
+  <img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" height="48">
+  <img src="https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=563D7C" height="48">
+  <img src="https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" height="48">
+  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB" height="48">
+  <img src="https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84" height="48">
+  <img src="https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" height="48">
+  <img src="https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman&logoColor=FF6C37" height="48">
 </p>
 
 ## Projects and Interests
