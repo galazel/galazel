@@ -15,7 +15,7 @@
 ## ✨ Highlights
 
 - Currently studying Bachelor of Science in Information Technology (BSIT).  
-- Passionate about full‑stack web development, databases, and clean architecture.  
+- Passionate(false) about full‑stack web development, databases, and clean architecture.  
 - Projects: Revised Artstream, Nursing Election — collaborative, production-minded work.
 
 ---
