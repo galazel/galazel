@@ -53,8 +53,6 @@ I am a BSIT student dedicated to continuous learning and professional growth. I 
   <img src="https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37" height="64" alt="Postman" title="Postman">
 </p>
 
-*Technical skills badges use a black background for bold contrast and readability.*
-
 ---
 
 ## 🚀 Projects
@@ -65,14 +63,11 @@ I am a BSIT student dedicated to continuous learning and professional growth. I 
 - Features: user authentication, galleries, responsive design, media uploads.
 - Status: active — enhancements in UI/UX and accessibility.
 
-### Nursing Election
+### UC Election
 - A voting and nomination system tailored for student or organizational elections.
 - Built with: Java (Spring Boot), MySQL, RESTful APIs, Postman-tested.
 - Features: secure voting flow, role-based access, results dashboard.
 - Status: completed — reusable components and API-first design.
-
-(If you'd like, I can add direct project links, screenshots, or a demo gif here.)
-
 ---
 
 ## 🛠 Work & Contributions
