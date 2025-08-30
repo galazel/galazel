@@ -1,17 +1,5 @@
 # Hi, I'm galazel 👋
 
-## ✨ Highlights
-
-- Currently studying Bachelor of Science in Information Technology (BSIT).  
-- Passionate(false) about full‑stack web development, databases, and clean architecture.  
-
----
-## 🌱 About Me
-
-I am a BSIT student dedicated to continuous learning and professional growth. I enjoy solving problems with Java and JavaScript, building responsive UIs, and designing reliable backends. I focus on clarity, readability, and delivering value.
-
----
-
 ## 💻 Technical Skills
 
 <p align="center">
