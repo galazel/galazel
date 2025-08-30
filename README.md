@@ -7,14 +7,6 @@
 - Projects: Revised Artstream, Nursing Election — collaborative, production-minded work.
 
 ---
-
-## 📚 Table of Contents
-
-- [About Me](#-about-me)  
-- [Technical Skills](#-technical-skills)  
-- [Projects](#-projects)
----
-
 ## 🌱 About Me
 
 I am a BSIT student dedicated to continuous learning and professional growth. I enjoy solving problems with Java and JavaScript, building responsive UIs, and designing reliable backends. I focus on clarity, readability, and delivering value.
