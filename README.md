@@ -5,6 +5,7 @@
 <p align="center">
   <!-- Black background badges for bold contrast -->
   <img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=white" height="64" alt="Java" title="Java">
+  <img src="https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" height="64" alt="C#" title="C#">
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="64" alt="JavaScript" title="JavaScript">
   <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height="64" alt="React" title="React">
   <img src="https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" height="64" alt="Tailwind CSS" title="Tailwind CSS">
