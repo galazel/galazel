@@ -1,15 +1,3 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F472B6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Galazel+🌸;Fullstack+Developer+💻;AI+Dreamer+🤖;Future+Engineer+🚀)](https://git.io/typing-svg)
-
----
-
-## 🌸 About Me  
-
-✨ !Passionate IT student exploring **Fullstack Development & AI**  
-🌱 Currently learning **React, Spring Boot, and C#**  
-💖 Fact: Eating seafoods causes diarrhea
----
-
 ## 💻 Technical Skills  
 
 <p align="center">
@@ -24,18 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" title="Postman"/>
 </p>  
-
----
-
-## 🎯 My Goals  
-
-🌷 Master **React advanced patterns** & state management  
-🌸 Build **microservice-based apps** with Spring Boot  
-💎 Improve **UI/UX design** skills with Tailwind & Shadcn  
-💻 Become a **Fullstack Engineer & AI Specialist**  
-
----
-
 <p align="center">
   <a href="https://github.com/galazel?tab=repositories" title="Click to see the repositories I contribute to">
     <img 
