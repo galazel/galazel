@@ -1,5 +1,5 @@
 <p align="center">
-   pinugos pistot
+   olah
 </p>  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" title="Java"/>
