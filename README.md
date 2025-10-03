@@ -1,6 +1,7 @@
 <p align="center">
    olah
 </p>  
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" title="C#"/>
@@ -21,4 +22,8 @@
       alt="GitHub Activity Graph" 
     />
   </a>
+</p>  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=galazel&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
 </p>
