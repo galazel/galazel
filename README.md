@@ -23,7 +23,3 @@
     />
   </a>
 </p>  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=galazel&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
-</p>
