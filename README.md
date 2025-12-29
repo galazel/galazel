@@ -1,1 +1,1 @@
-currently learning fastapi
+currently learning django
