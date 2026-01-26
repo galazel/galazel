@@ -1,15 +1,5 @@
 <div align="center">
 
-# 💖 Hi there, I'm [Your Name] ✨
-
-### 🌸 Full-Stack Developer | Tech Enthusiast | Problem Solver 🌸
-
-</div>
-
-## 🦋 About Me
-
-I'm a full-stack developer passionate about building scalable web applications and exploring new technologies. I enjoy working across the entire development stack, from crafting responsive user interfaces to designing robust backend systems.
-
 ### 🚀 Future Goals
 
 I'm currently on an exciting journey toward establishing my own tech startup! I'm combining my technical expertise with entrepreneurial vision to create innovative solutions that make a difference. Always learning, always building, and always dreaming big. 💫
