@@ -1,6 +1,3 @@
-
-# Hi there, I'm [Your Name] 👋
-
 ## About Me
 
 I'm a full-stack developer passionate about building scalable web applications and exploring new technologies. I enjoy working across the entire development stack, from crafting responsive user interfaces to designing robust backend systems.
