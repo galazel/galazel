@@ -14,11 +14,6 @@ Welcome to my GitHub profile! I'm a student developer passionate about building 
 - Full-Stack Web Development
 - Java Application Development
 
-## 📚 Projects Highlights
-
-### ArtStream Series
-A comprehensive collection of Java projects demonstrating progressive development and refinement. The most recent version (`artstream-revised-version`) showcases improvements and best practices applied to the original concept.
-
 
 ## 💡 What I'm Working With
 
